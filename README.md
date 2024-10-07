@@ -17,7 +17,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |7| Listas iterables y conjunto de datos|9|Finalizada|
 |8| Funciones |11 |Finalizada|
 |9| Clases |9|Finalizada|
-|10| Contructores Nombrados |8|Activa|
+|10| Contructores Nombrados |8|Finalizada|
 
 
 
