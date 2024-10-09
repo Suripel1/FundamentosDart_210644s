@@ -21,7 +21,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |11| Setter y Getters |9|Finalizada|
 |12| Asserciones |3|Finalizada|
 |13| Abstracciones |9|Finalizada|
-|14| Maxins |Por Definir |Activa|
+|14| Maxins |Por Definir|Activa|
 
 
 
