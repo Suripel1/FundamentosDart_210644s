@@ -22,6 +22,7 @@ Proyecto de clase para la Unidad 1 de la asignatura de Desarrollo Móvil Integra
 |12| Asserciones |3|Finalizada|
 |13| Abstracciones |11|Finalizada|
 |14| Maxins |11|Finalizada|
+|15| Futures |7|Finalizada|
 
 
 
